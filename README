@@ -1,0 +1,2 @@
+git init
+gh repo create  demojs --public -d 'stupid test' --enable-issues=false  --source .

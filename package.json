@@ -1,0 +1,14 @@
+{
+  "name": "bundling-demo",
+  "main": "dist/index.js",
+  "umd:main": "dist/index.umd.js",
+  "module": "dist/index.m.js",
+  "scripts": {
+      "build": "microbundle",
+      "format": "prettier --write '**/*.{js,css,md}'"
+  },
+  "devDependencies": {
+    "microbundle": "^0.15.0",
+    "prettier": "^2.7.1"
+  }
+}

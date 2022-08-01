@@ -1,0 +1,1 @@
+{"version":3,"file":"index.m.js","sources":["../src/index.js"],"sourcesContent":["export default function demo() {\n  console.log('demo');\n}\n"],"names":["console","log"],"mappings":"AAAe,aACbA,QAAQC,IAAI,OACb"}

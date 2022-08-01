@@ -1,0 +1,1 @@
+{"version":3,"file":"index.umd.js","sources":["../src/index.js"],"sourcesContent":["export default function demo() {\n  console.log('demo');\n}\n"],"names":["console","log"],"mappings":"sOAAe,WACbA,QAAQC,IAAI,OACb"}
